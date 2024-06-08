@@ -5,7 +5,7 @@
 ### steps 
 
 1: npm  install
-2: npm satrt 
+2: npm start 
 
 After runing  the app  enter the  username: "admin" or "user"
 I am mantaining  the  user data  in  utils file
